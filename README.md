@@ -5,11 +5,11 @@ Developed using a combination of HTML, CSS, JavaScript, PHP, and supported by th
 ﻿﻿Was responsible for the backend connection to the database and adding functionalities such as Add , Remove , Edit etc. records of various employees.<br/>
 </h3>
 
-<p align="left"> <img src="images/ums1.jpeg" alt="janardankeny" width="400" height="850">
-<img src="images/ums2.jpeg" alt="janardankeny" width="400" height="850">
-<img src="images/ums3.jpeg" alt="janardankeny" width="400" height="850">
-<img src="images/ums4.jpeg" alt="janardankeny" width="400" height="850">
-<img src="images/ums5.jpeg" alt="janardankeny" width="400" height="850">
-<img src="images/ums6.jpeg" alt="janardankeny" width="400" height="850">
-<img src="images/ums7.jpeg" alt="janardankeny" width="400" height="850">
-<img src="images/ums8.jpeg" alt="janardankeny" width="400" height="850"></p>
+<p align="left"> <img src="images/ums1.png" alt="janardankeny" width="400" height="850">
+<img src="images/ums2.png" alt="janardankeny" width="400" height="850">
+<img src="images/ums3.png" alt="janardankeny" width="400" height="850">
+<img src="images/ums4.png" alt="janardankeny" width="400" height="850">
+<img src="images/ums5.png" alt="janardankeny" width="400" height="850">
+<img src="images/ums6.png" alt="janardankeny" width="400" height="850">
+<img src="images/ums7.png" alt="janardankeny" width="400" height="850">
+<img src="images/ums8.png" alt="janardankeny" width="400" height="850"></p>
