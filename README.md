@@ -13,6 +13,7 @@ Developed using a combination of HTML, CSS, JavaScript, PHP, and supported by th
 <img src="images/ums4.png" alt="janardankeny" width="1600" height="200">
 <h2>Displaying leave details</h2>
 <img src="images/ums5.png" alt="janardankeny" width="1600" height="200">
+<h2>Forms</h2>
 <p align="left">
 <img src="images/ums6.png" alt="janardankeny" width="400" height="850">
 <img src="images/ums7.png" alt="janardankeny" width="400" height="850">
